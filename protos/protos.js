@@ -99,7 +99,7 @@
                         };
     
                         /**
-                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#listDeliveryPipelines}.
+                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|listDeliveryPipelines}.
                          * @memberof google.cloud.deploy.v1.CloudDeploy
                          * @typedef ListDeliveryPipelinesCallback
                          * @type {function}
@@ -132,7 +132,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#getDeliveryPipeline}.
+                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|getDeliveryPipeline}.
                          * @memberof google.cloud.deploy.v1.CloudDeploy
                          * @typedef GetDeliveryPipelineCallback
                          * @type {function}
@@ -165,7 +165,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#createDeliveryPipeline}.
+                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|createDeliveryPipeline}.
                          * @memberof google.cloud.deploy.v1.CloudDeploy
                          * @typedef CreateDeliveryPipelineCallback
                          * @type {function}
@@ -198,7 +198,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#updateDeliveryPipeline}.
+                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|updateDeliveryPipeline}.
                          * @memberof google.cloud.deploy.v1.CloudDeploy
                          * @typedef UpdateDeliveryPipelineCallback
                          * @type {function}
@@ -231,7 +231,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#deleteDeliveryPipeline}.
+                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|deleteDeliveryPipeline}.
                          * @memberof google.cloud.deploy.v1.CloudDeploy
                          * @typedef DeleteDeliveryPipelineCallback
                          * @type {function}
@@ -264,7 +264,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#listTargets}.
+                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|listTargets}.
                          * @memberof google.cloud.deploy.v1.CloudDeploy
                          * @typedef ListTargetsCallback
                          * @type {function}
@@ -297,7 +297,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#getTarget}.
+                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|getTarget}.
                          * @memberof google.cloud.deploy.v1.CloudDeploy
                          * @typedef GetTargetCallback
                          * @type {function}
@@ -330,7 +330,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#createTarget}.
+                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|createTarget}.
                          * @memberof google.cloud.deploy.v1.CloudDeploy
                          * @typedef CreateTargetCallback
                          * @type {function}
@@ -363,7 +363,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#updateTarget}.
+                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|updateTarget}.
                          * @memberof google.cloud.deploy.v1.CloudDeploy
                          * @typedef UpdateTargetCallback
                          * @type {function}
@@ -396,7 +396,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#deleteTarget}.
+                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|deleteTarget}.
                          * @memberof google.cloud.deploy.v1.CloudDeploy
                          * @typedef DeleteTargetCallback
                          * @type {function}
@@ -429,7 +429,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#listReleases}.
+                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|listReleases}.
                          * @memberof google.cloud.deploy.v1.CloudDeploy
                          * @typedef ListReleasesCallback
                          * @type {function}
@@ -462,7 +462,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#getRelease}.
+                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|getRelease}.
                          * @memberof google.cloud.deploy.v1.CloudDeploy
                          * @typedef GetReleaseCallback
                          * @type {function}
@@ -495,7 +495,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#createRelease}.
+                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|createRelease}.
                          * @memberof google.cloud.deploy.v1.CloudDeploy
                          * @typedef CreateReleaseCallback
                          * @type {function}
@@ -528,7 +528,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#approveRollout}.
+                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|approveRollout}.
                          * @memberof google.cloud.deploy.v1.CloudDeploy
                          * @typedef ApproveRolloutCallback
                          * @type {function}
@@ -561,7 +561,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#listRollouts}.
+                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|listRollouts}.
                          * @memberof google.cloud.deploy.v1.CloudDeploy
                          * @typedef ListRolloutsCallback
                          * @type {function}
@@ -594,7 +594,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#getRollout}.
+                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|getRollout}.
                          * @memberof google.cloud.deploy.v1.CloudDeploy
                          * @typedef GetRolloutCallback
                          * @type {function}
@@ -627,7 +627,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#createRollout}.
+                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|createRollout}.
                          * @memberof google.cloud.deploy.v1.CloudDeploy
                          * @typedef CreateRolloutCallback
                          * @type {function}
@@ -660,7 +660,7 @@
                          */
     
                         /**
-                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#getConfig}.
+                         * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|getConfig}.
                          * @memberof google.cloud.deploy.v1.CloudDeploy
                          * @typedef GetConfigCallback
                          * @type {function}
@@ -21193,6 +21193,7 @@
                  * @property {boolean|null} [packed] FieldOptions packed
                  * @property {google.protobuf.FieldOptions.JSType|null} [jstype] FieldOptions jstype
                  * @property {boolean|null} [lazy] FieldOptions lazy
+                 * @property {boolean|null} [unverifiedLazy] FieldOptions unverifiedLazy
                  * @property {boolean|null} [deprecated] FieldOptions deprecated
                  * @property {boolean|null} [weak] FieldOptions weak
                  * @property {Array.<google.protobuf.IUninterpretedOption>|null} [uninterpretedOption] FieldOptions uninterpretedOption
@@ -21248,6 +21249,14 @@
                  * @instance
                  */
                 FieldOptions.prototype.lazy = false;
+    
+                /**
+                 * FieldOptions unverifiedLazy.
+                 * @member {boolean} unverifiedLazy
+                 * @memberof google.protobuf.FieldOptions
+                 * @instance
+                 */
+                FieldOptions.prototype.unverifiedLazy = false;
     
                 /**
                  * FieldOptions deprecated.
@@ -21325,6 +21334,8 @@
                         writer.uint32(/* id 6, wireType 0 =*/48).int32(message.jstype);
                     if (message.weak != null && Object.hasOwnProperty.call(message, "weak"))
                         writer.uint32(/* id 10, wireType 0 =*/80).bool(message.weak);
+                    if (message.unverifiedLazy != null && Object.hasOwnProperty.call(message, "unverifiedLazy"))
+                        writer.uint32(/* id 15, wireType 0 =*/120).bool(message.unverifiedLazy);
                     if (message.uninterpretedOption != null && message.uninterpretedOption.length)
                         for (var i = 0; i < message.uninterpretedOption.length; ++i)
                             $root.google.protobuf.UninterpretedOption.encode(message.uninterpretedOption[i], writer.uint32(/* id 999, wireType 2 =*/7994).fork()).ldelim();
@@ -21381,6 +21392,9 @@
                             break;
                         case 5:
                             message.lazy = reader.bool();
+                            break;
+                        case 15:
+                            message.unverifiedLazy = reader.bool();
                             break;
                         case 3:
                             message.deprecated = reader.bool();
@@ -21465,6 +21479,9 @@
                     if (message.lazy != null && message.hasOwnProperty("lazy"))
                         if (typeof message.lazy !== "boolean")
                             return "lazy: boolean expected";
+                    if (message.unverifiedLazy != null && message.hasOwnProperty("unverifiedLazy"))
+                        if (typeof message.unverifiedLazy !== "boolean")
+                            return "unverifiedLazy: boolean expected";
                     if (message.deprecated != null && message.hasOwnProperty("deprecated"))
                         if (typeof message.deprecated !== "boolean")
                             return "deprecated: boolean expected";
@@ -21550,6 +21567,8 @@
                     }
                     if (object.lazy != null)
                         message.lazy = Boolean(object.lazy);
+                    if (object.unverifiedLazy != null)
+                        message.unverifiedLazy = Boolean(object.unverifiedLazy);
                     if (object.deprecated != null)
                         message.deprecated = Boolean(object.deprecated);
                     if (object.weak != null)
@@ -21637,6 +21656,7 @@
                         object.lazy = false;
                         object.jstype = options.enums === String ? "JS_NORMAL" : 0;
                         object.weak = false;
+                        object.unverifiedLazy = false;
                         object[".google.api.resourceReference"] = null;
                     }
                     if (message.ctype != null && message.hasOwnProperty("ctype"))
@@ -21651,6 +21671,8 @@
                         object.jstype = options.enums === String ? $root.google.protobuf.FieldOptions.JSType[message.jstype] : message.jstype;
                     if (message.weak != null && message.hasOwnProperty("weak"))
                         object.weak = message.weak;
+                    if (message.unverifiedLazy != null && message.hasOwnProperty("unverifiedLazy"))
+                        object.unverifiedLazy = message.unverifiedLazy;
                     if (message.uninterpretedOption && message.uninterpretedOption.length) {
                         object.uninterpretedOption = [];
                         for (var j = 0; j < message.uninterpretedOption.length; ++j)
@@ -25763,7 +25785,7 @@
                 };
     
                 /**
-                 * Callback as used by {@link google.longrunning.Operations#listOperations}.
+                 * Callback as used by {@link google.longrunning.Operations|listOperations}.
                  * @memberof google.longrunning.Operations
                  * @typedef ListOperationsCallback
                  * @type {function}
@@ -25796,7 +25818,7 @@
                  */
     
                 /**
-                 * Callback as used by {@link google.longrunning.Operations#getOperation}.
+                 * Callback as used by {@link google.longrunning.Operations|getOperation}.
                  * @memberof google.longrunning.Operations
                  * @typedef GetOperationCallback
                  * @type {function}
@@ -25829,7 +25851,7 @@
                  */
     
                 /**
-                 * Callback as used by {@link google.longrunning.Operations#deleteOperation}.
+                 * Callback as used by {@link google.longrunning.Operations|deleteOperation}.
                  * @memberof google.longrunning.Operations
                  * @typedef DeleteOperationCallback
                  * @type {function}
@@ -25862,7 +25884,7 @@
                  */
     
                 /**
-                 * Callback as used by {@link google.longrunning.Operations#cancelOperation}.
+                 * Callback as used by {@link google.longrunning.Operations|cancelOperation}.
                  * @memberof google.longrunning.Operations
                  * @typedef CancelOperationCallback
                  * @type {function}
@@ -25895,7 +25917,7 @@
                  */
     
                 /**
-                 * Callback as used by {@link google.longrunning.Operations#waitOperation}.
+                 * Callback as used by {@link google.longrunning.Operations|waitOperation}.
                  * @memberof google.longrunning.Operations
                  * @typedef WaitOperationCallback
                  * @type {function}
