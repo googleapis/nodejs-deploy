@@ -302,126 +302,126 @@ export namespace google {
                 namespace CloudDeploy {
 
                     /**
-                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|listDeliveryPipelines}.
+                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#listDeliveryPipelines}.
                      * @param error Error, if any
                      * @param [response] ListDeliveryPipelinesResponse
                      */
                     type ListDeliveryPipelinesCallback = (error: (Error|null), response?: google.cloud.deploy.v1.ListDeliveryPipelinesResponse) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|getDeliveryPipeline}.
+                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#getDeliveryPipeline}.
                      * @param error Error, if any
                      * @param [response] DeliveryPipeline
                      */
                     type GetDeliveryPipelineCallback = (error: (Error|null), response?: google.cloud.deploy.v1.DeliveryPipeline) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|createDeliveryPipeline}.
+                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#createDeliveryPipeline}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type CreateDeliveryPipelineCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|updateDeliveryPipeline}.
+                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#updateDeliveryPipeline}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type UpdateDeliveryPipelineCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|deleteDeliveryPipeline}.
+                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#deleteDeliveryPipeline}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type DeleteDeliveryPipelineCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|listTargets}.
+                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#listTargets}.
                      * @param error Error, if any
                      * @param [response] ListTargetsResponse
                      */
                     type ListTargetsCallback = (error: (Error|null), response?: google.cloud.deploy.v1.ListTargetsResponse) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|getTarget}.
+                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#getTarget}.
                      * @param error Error, if any
                      * @param [response] Target
                      */
                     type GetTargetCallback = (error: (Error|null), response?: google.cloud.deploy.v1.Target) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|createTarget}.
+                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#createTarget}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type CreateTargetCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|updateTarget}.
+                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#updateTarget}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type UpdateTargetCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|deleteTarget}.
+                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#deleteTarget}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type DeleteTargetCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|listReleases}.
+                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#listReleases}.
                      * @param error Error, if any
                      * @param [response] ListReleasesResponse
                      */
                     type ListReleasesCallback = (error: (Error|null), response?: google.cloud.deploy.v1.ListReleasesResponse) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|getRelease}.
+                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#getRelease}.
                      * @param error Error, if any
                      * @param [response] Release
                      */
                     type GetReleaseCallback = (error: (Error|null), response?: google.cloud.deploy.v1.Release) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|createRelease}.
+                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#createRelease}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type CreateReleaseCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|approveRollout}.
+                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#approveRollout}.
                      * @param error Error, if any
                      * @param [response] ApproveRolloutResponse
                      */
                     type ApproveRolloutCallback = (error: (Error|null), response?: google.cloud.deploy.v1.ApproveRolloutResponse) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|listRollouts}.
+                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#listRollouts}.
                      * @param error Error, if any
                      * @param [response] ListRolloutsResponse
                      */
                     type ListRolloutsCallback = (error: (Error|null), response?: google.cloud.deploy.v1.ListRolloutsResponse) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|getRollout}.
+                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#getRollout}.
                      * @param error Error, if any
                      * @param [response] Rollout
                      */
                     type GetRolloutCallback = (error: (Error|null), response?: google.cloud.deploy.v1.Rollout) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|createRollout}.
+                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#createRollout}.
                      * @param error Error, if any
                      * @param [response] Operation
                      */
                     type CreateRolloutCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
                     /**
-                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy|getConfig}.
+                     * Callback as used by {@link google.cloud.deploy.v1.CloudDeploy#getConfig}.
                      * @param error Error, if any
                      * @param [response] Config
                      */
@@ -8195,9 +8195,6 @@ export namespace google {
             /** FieldOptions lazy */
             lazy?: (boolean|null);
 
-            /** FieldOptions unverifiedLazy */
-            unverifiedLazy?: (boolean|null);
-
             /** FieldOptions deprecated */
             deprecated?: (boolean|null);
 
@@ -8234,9 +8231,6 @@ export namespace google {
 
             /** FieldOptions lazy. */
             public lazy: boolean;
-
-            /** FieldOptions unverifiedLazy. */
-            public unverifiedLazy: boolean;
 
             /** FieldOptions deprecated. */
             public deprecated: boolean;
@@ -10039,35 +10033,35 @@ export namespace google {
         namespace Operations {
 
             /**
-             * Callback as used by {@link google.longrunning.Operations|listOperations}.
+             * Callback as used by {@link google.longrunning.Operations#listOperations}.
              * @param error Error, if any
              * @param [response] ListOperationsResponse
              */
             type ListOperationsCallback = (error: (Error|null), response?: google.longrunning.ListOperationsResponse) => void;
 
             /**
-             * Callback as used by {@link google.longrunning.Operations|getOperation}.
+             * Callback as used by {@link google.longrunning.Operations#getOperation}.
              * @param error Error, if any
              * @param [response] Operation
              */
             type GetOperationCallback = (error: (Error|null), response?: google.longrunning.Operation) => void;
 
             /**
-             * Callback as used by {@link google.longrunning.Operations|deleteOperation}.
+             * Callback as used by {@link google.longrunning.Operations#deleteOperation}.
              * @param error Error, if any
              * @param [response] Empty
              */
             type DeleteOperationCallback = (error: (Error|null), response?: google.protobuf.Empty) => void;
 
             /**
-             * Callback as used by {@link google.longrunning.Operations|cancelOperation}.
+             * Callback as used by {@link google.longrunning.Operations#cancelOperation}.
              * @param error Error, if any
              * @param [response] Empty
              */
             type CancelOperationCallback = (error: (Error|null), response?: google.protobuf.Empty) => void;
 
             /**
-             * Callback as used by {@link google.longrunning.Operations|waitOperation}.
+             * Callback as used by {@link google.longrunning.Operations#waitOperation}.
              * @param error Error, if any
              * @param [response] Operation
              */
