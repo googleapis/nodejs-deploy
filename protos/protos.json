@@ -12,8 +12,8 @@
                     "java_multiple_files": true,
                     "java_outer_classname": "TargetNotificationPayloadProto",
                     "java_package": "com.google.cloud.deploy.v1",
-                    "(google.api.resource_definition).type": "run.googleapis.com/Location",
-                    "(google.api.resource_definition).pattern": "projects/{project}/locations/{location}"
+                    "(google.api.resource_definition).type": "gkehub.googleapis.com/Membership",
+                    "(google.api.resource_definition).pattern": "projects/{project}/locations/{location}/memberships/{membership}"
                   },
                   "nested": {
                     "CloudDeploy": {
@@ -1117,7 +1117,7 @@
                           "id": 1,
                           "options": {
                             "(google.api.field_behavior)": "REQUIRED",
-                            "(google.api.resource_reference).type": "run.googleapis.com/Location"
+                            "(google.api.resource_reference).type": "locations.googleapis.com/Location"
                           }
                         }
                       }
